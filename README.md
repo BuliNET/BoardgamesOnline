@@ -3,7 +3,7 @@ Wymagania:
 Node w wersji v22.13.0
 
 ```bash
-git clone https://github.com/chawrona/capstone.git
+git clone https://github.com/BuliNET/BoardgamesOnline.git
 cd capstone
 npm install
 cp .env.example .env
