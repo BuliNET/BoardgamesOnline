@@ -4,7 +4,7 @@ Node w wersji v22.13.0
 
 ```bash
 git clone https://github.com/BuliNET/BoardgamesOnline.git
-cd capstone
+cd BoardgamesOnline
 npm install
 cp .env.example .env
 cd client
